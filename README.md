@@ -1,16 +1,80 @@
-## Hi there 👋
+# 👩🏻‍💻 Letícia Vieira da Costa
 
-<!--
-**LeticiaVieiraCosta/LeticiaVieiraCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**` Fullstack Developer | Aspiring Data Analyst & Scientist`**
 
-Here are some ideas to get you started:
+Hi, I’m Letícia!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m an Applied and Computational Mathematics student at UFRRJ (Brazil), passionate about data, problem-solving, and turning challenges into opportunities. I love combining analytical thinking with creativity to build practical and innovative solutions.
+
+---
+
+### 🤖 Languages and Tools
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js"
+    title="Node.js" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Angular.js" 
+    title="Angular.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
+/>
+<br/>
+<br/>
+
+---
+
+### 🎓 Education
+
+* Bachelor’s degree in Applied and Computational Mathematics (in progress) @ (UFRRJ)
+
+---
+
+### 👋🏻 How to reach me
+
+* Personal E-mail: contatoleticiavieira@gmail.com
+* LinkedIn: https://www.linkedin.com/in/leticiavieiradacosta/
+
+
+</p>
