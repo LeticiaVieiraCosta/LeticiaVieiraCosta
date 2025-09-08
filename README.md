@@ -3,8 +3,7 @@
 **` Fullstack Developer | Aspiring Data Analyst & Scientist`**
 
 Hi, I’m Letícia!
-
-I’m an Applied and Computational Mathematics student at UFRRJ (Brazil), passionate about data, problem-solving, and turning challenges into opportunities. I love combining analytical thinking with creativity to build practical and innovative solutions.
+I’m an Applied and Computational Mathematics student at UFRRJ, passionate about data, problem-solving, and turning challenges into opportunities. I love combining analytical thinking with creativity to build practical and innovative solutions.
 
 ---
 
@@ -67,7 +66,7 @@ I’m an Applied and Computational Mathematics student at UFRRJ (Brazil), passio
 
 ### 🎓 Education
 
-* Bachelor’s degree in Applied and Computational Mathematics (in progress) @ (UFRRJ)
+* Bachelor’s degree in Applied and Computational Mathematics (in progress) @ UFRRJ
 
 ---
 
@@ -76,5 +75,23 @@ I’m an Applied and Computational Mathematics student at UFRRJ (Brazil), passio
 * Personal E-mail: contatoleticiavieira@gmail.com
 * LinkedIn: https://www.linkedin.com/in/leticiavieiradacosta/
 
+---
+  
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=LeticiaVieiraCosta&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaVieiraCosta&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
+  />
 
 </p>
+
