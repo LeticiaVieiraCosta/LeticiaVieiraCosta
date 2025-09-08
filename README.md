@@ -2,7 +2,7 @@
 
 **` Fullstack Developer | Aspiring Data Analyst & Scientist`**
 
-I’m an Applied and Computational Mathematics student at UFRRJ, passionate about data, problem-solving, and turning challenges into opportunities. I love combining analytical thinking with creativity to build practical and innovative solutions.
+Applied & Computational Mathematics student @ UFRRJ — learning data analysis & data science through hands-on projects.
 
 ---
 
